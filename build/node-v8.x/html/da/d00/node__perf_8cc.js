@@ -1,0 +1,28 @@
+var node__perf_8cc =
+[
+    [ "SET_STATE_TYPEDARRAY", "da/d00/node__perf_8cc.html#a7eb0e37a10de35905877981beab6ee11", null ],
+    [ "V", "da/d00/node__perf_8cc.html#a28606ce604f299f95e4bdd241a6f2e78", null ],
+    [ "V", "da/d00/node__perf_8cc.html#a28606ce604f299f95e4bdd241a6f2e78", null ],
+    [ "GetName", "da/d00/node__perf_8cc.html#a62a5dae59ab576ee253fd814758d7d4f", null ],
+    [ "GetPerformanceEntryDuration", "da/d00/node__perf_8cc.html#af52a464463eccbfa38c4a704166bc5da", null ],
+    [ "GetPerformanceEntryName", "da/d00/node__perf_8cc.html#ad9a0e980f0aeb84f7e62201ca7a20520", null ],
+    [ "GetPerformanceEntryStartTime", "da/d00/node__perf_8cc.html#a9fa542e76d5a8542bad74ce9850ffe5c", null ],
+    [ "GetPerformanceEntryType", "da/d00/node__perf_8cc.html#aec7fd6d7f0cd9f7d45ebb8b34dd759af", null ],
+    [ "GetPerformanceMark", "da/d00/node__perf_8cc.html#a55d166bc894dc197d598b953da074fa4", null ],
+    [ "Init", "da/d00/node__perf_8cc.html#a932f5b722e72a1c09fb10d4850aac838", null ],
+    [ "Mark", "da/d00/node__perf_8cc.html#a90c0229a26f440c6fe56c7765645b4a7", null ],
+    [ "MarkGarbageCollectionEnd", "da/d00/node__perf_8cc.html#a9b9e6dda2230049c1e40f1d4b80db27b", null ],
+    [ "MarkGarbageCollectionStart", "da/d00/node__perf_8cc.html#a899f7fae13940d119d76115294e0c856", null ],
+    [ "MarkMilestone", "da/d00/node__perf_8cc.html#afebe18c882d4ec0804e50b1e856b71c4", null ],
+    [ "Measure", "da/d00/node__perf_8cc.html#a27437d7cce97854c96e29a9685111dba", null ],
+    [ "PerformanceGCCallback", "da/d00/node__perf_8cc.html#a5901f31062e5e347ac452ff76aec22ce", null ],
+    [ "SetupGarbageCollectionTracking", "da/d00/node__perf_8cc.html#aa7a0543606b7ff421877b67c7893dbcc", null ],
+    [ "SetupPerformanceObservers", "da/d00/node__perf_8cc.html#adbfcd97ab9af2c24a1ec634a87069b63", null ],
+    [ "TimerFunctionCall", "da/d00/node__perf_8cc.html#a5babc87146e32224791c98ac32cf20fa", null ],
+    [ "Timerify", "da/d00/node__perf_8cc.html#ac90e1ab098ca947b8d386246700c0287", null ],
+    [ "performance_last_gc_start_mark_", "da/d00/node__perf_8cc.html#aff28a77c7e2939074560abba0b8167ec", null ],
+    [ "performance_last_gc_type_", "da/d00/node__perf_8cc.html#ae929c5a854b3bbd589f0e4d5374be0cc", null ],
+    [ "performance_node_start", "da/d00/node__perf_8cc.html#ab4160e85fe94cdcfb6329979d57b3ccd", null ],
+    [ "performance_v8_start", "da/d00/node__perf_8cc.html#a4d4d6a31ec31984de932148a557f7cee", null ],
+    [ "timeOrigin", "da/d00/node__perf_8cc.html#a6cde8dbc68254cd5ca6463256da7e08c", null ]
+];
